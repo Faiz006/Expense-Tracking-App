@@ -1,6 +1,5 @@
 # Expense-Tracking-App
 
-Overview
 The Expense Tracker is a Python-based command-line application designed to help users manage and track their expenses efficiently. The application allows users to record their expenses, categorize them, view summaries of their spending habits, set monthly savings goals, and export their expense data for further analysis.
 
 Features
